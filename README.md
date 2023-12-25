@@ -1,8 +1,61 @@
-# React + Vite
+Product Management System App
+A web application for managing products with user authentication, category management, product listing, and additional features.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Table of Contents
+Product Management System App
+Table of Contents
+Installation
+Description
+Features
+Usage
+Configuration
+Contributing
+License
+Contact
 
-Currently, two official plugins are available:
+Installation:
+1.Clone the repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/NabeelNizar786/Product-Management-App-Client.git
+cd client
+
+2.Install dependencies:
+
+npm install
+
+
+Usage:
+1.Start the application:
+
+npm run dev
+
+Description:
+The Product Management System App is a web application that allows users to manage products efficiently. It includes user authentication, category management, product listing, and various additional features to enhance the user experience.
+
+Features:
+User Authentication:
+
+Users can register with an email and password.
+Users can log in with their credentials.
+Category Management:
+
+Add categories to organize products.
+Add sub-categories for more granular organization.
+Product Management:
+
+Add products to specific sub-categories.
+Display a list of products.
+Edit product details.
+Wishlist:
+
+Implement Wishlist functionality using Redux or useContext state management.
+Search and Filter:
+
+Implement a search box to search for products by name.
+Implement filtering based on sub-categories.
+Pagination:
+
+Implement pagination for better navigation through product listings.
+Backend Architecture:
+
+Utilize backend architectures like MVC, Clean, etc., for efficient server-side development.

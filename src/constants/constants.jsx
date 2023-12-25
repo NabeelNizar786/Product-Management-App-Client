@@ -1,1 +1,2 @@
-export const userBaseUrl = "http://localhost:5000/user";
+export const userBaseUrl = "https://productmanagementserver.onrender.com/user";
+export const BaseUrl = "https://productmanagementserver.onrender.com"
