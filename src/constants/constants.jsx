@@ -1,0 +1,1 @@
+export const userBaseUrl = "http://localhost:5000/user";
