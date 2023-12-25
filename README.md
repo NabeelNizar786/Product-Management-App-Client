@@ -88,6 +88,6 @@ Utilize backend architectures like MVC, Clean, etc., for efficient server-side d
 
 Contact:
 
-For questions or support, contact [Your Name] at [nabeelnizar786@gmail.com].
+For questions or support, contact at [nabeelnizar786@gmail.com].
 
 Feel free to customize the template further based on your specific project details. If you have any questions or need further assistance, feel free to ask!
