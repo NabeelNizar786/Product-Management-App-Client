@@ -28,6 +28,7 @@ Installation:
 1.Clone the repository:
 
 git clone https://github.com/NabeelNizar786/Product-Management-App-Client.git
+
 cd client
 
 2.Install dependencies:
